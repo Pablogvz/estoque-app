@@ -47,9 +47,9 @@ export default function StockManager() {
         <TableHeader>
           <TableRow>
             <TableHead>ID</TableHead>
-            <TableHead>Product Name</TableHead>
-            <TableHead>Price</TableHead>
-            <TableHead>Stock</TableHead>
+            <TableHead>Produto</TableHead>
+            <TableHead>Preço</TableHead>
+            <TableHead>Estoque</TableHead>
             <TableHead>Status</TableHead>
           </TableRow>
         </TableHeader>
